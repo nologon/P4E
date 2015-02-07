@@ -1,0 +1,6 @@
+#!/usr/bin/python
+n = 500
+while n > 0:
+	print n
+	n = n - 1
+print 'Blastoff!!'
