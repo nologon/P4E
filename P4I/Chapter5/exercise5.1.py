@@ -1,10 +1,10 @@
 #!/usr/bin/python
+# numbers = []
 def add(number_input):
-	numbers = []
 	if add not in numbers:
 		numbers.append(add)
 	for number in numbers:
-		print (%s % numbers)
+		print "Number %s"  % numbers
 
 number = int(raw_input('Enter a number: '))
 add(number_input)
